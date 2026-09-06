@@ -1,0 +1,8 @@
+fastapi==0.141.1
+uvicorn[standard]==0.52.4
+torch==2.13.0
+transformers==5.16.1
+safetensors==0.8.0
+pydantic==2.13.5
+python-multipart==0.0.32
+openai-whisper==20250625
